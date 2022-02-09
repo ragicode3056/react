@@ -57,4 +57,4 @@ Pure Js - COmpass -- Vanilla Js
 3. component 3 times call --- <Todo />
 4. import / export 
 
-5. props -- object 
+5. props -- object -parameter 
