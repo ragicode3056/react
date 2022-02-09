@@ -1,0 +1,60 @@
+React -- js library -- to build  user interfacres - component 
+
+
+main adv -- automatic rendering -- example  --- 
+        single html file 
+        DOM alone refresh 
+        how is it possible -- Virtual DOM Memoryy 
+                                -- html file 
+                                    js file 
+                                    ---------------virtual memory 
+                                    refresh
+
+React website examples -- 
+    fb , netflix, airnb 
+
+react founder - fb 
+
+history -- 2011 start  
+first fb 
+
+famous -- 2021 
+first version -- react native 
+latest version - react 17
+
+React Alternates 
+Angular / Vue Js -- Framework 
+react - library 
+
+Difereence betw library framework ?
+lib - light weight , what you need that alone will be there 
+framework -- vast set of libraries , inbuild functions -- use ? --  Big project 
+
+Usages --
+SPA - Single page application -- React best 
+Multiple page or big product -  angular 
+Pure Js - COmpass -- Vanilla Js 
+
+
+
+--React set up 
+1. create react app 
+
+
+---- understanding code 
+
+1. index.js -- start of application -- code render 
+        -- app.js call 
+        -- it will be injected in root 
+2.index.html -- root div 
+
+3.app.js -- component 
+
+-----------------------------------
+
+1. Simple div app.js setup 
+2. simple card -- component 
+3. component 3 times call --- <Todo />
+4. import / export 
+
+5. props -- object 

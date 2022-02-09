@@ -1,0 +1,15 @@
+.boxContanier{
+  width: 400px;
+    height: 150px;
+    margin: 20px;
+    padding: 10px;
+    background: white;
+    /* box-shadow: 1px 1px 1px 1px #c92727; */
+    box-shadow: 1px 0px 5px 0px #7daf85;
+}
+.btn{
+  border: none;
+    width: 90px;
+    height: 40px;
+    background: aquamarine;
+}
