@@ -15,7 +15,7 @@ export function Todo(props) {
     <div className='boxContanier'>
       <h2>{props.text}</h2>
       <button className='btn' onClick={deleteHandler}> Delete</button>
-      {ModalOpen && <Modal />}
+      {ModalOpen && <Modal onCancel={removeOverlayHandler} onConfirm={removeOverlayHandler} />}
       {ModalOpen && <Overlay onCancel={removeOverlayHandler} />}
 
     </div>
