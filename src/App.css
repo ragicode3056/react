@@ -7,6 +7,16 @@
     /* box-shadow: 1px 1px 1px 1px #c92727; */
     box-shadow: 1px 0px 5px 0px #7daf85;
 }
+.boxContanier-modal{
+   width: 400px;
+    height: 150px;
+    padding: 10px;
+    background: white;
+    /* box-shadow: 1px 1px 1px 1px #c92727; */
+    box-shadow: 1px 0px 5px 0px #7daf85;
+    z-index:10000;
+    margin-left:500px;
+}
 .btn{
   border: none;
     width: 90px;
@@ -28,6 +38,6 @@
   bottom:0;
   left:0;
   background-color: rgba(0,0,0,0.5); 
-  z-index:1000000;
+  z-index:100;
   
 }

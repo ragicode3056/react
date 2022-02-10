@@ -58,3 +58,12 @@ Pure Js - COmpass -- Vanilla Js
 4. import / export 
 
 5. props -- object -parameter 
+
+
+--------------------------------
+Diferrence between export and export default 
+export genrealy exports only the function that need to be done 
+so while using export we import like this -------- import {Box} from ./Box.js
+
+export Default will export the entire function or file  ---- import Box from ./Box.js
+source - 

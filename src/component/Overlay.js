@@ -1,5 +1,5 @@
-export const Overlay = () => {
+export const Overlay = (props) => {
     return (
-        <div className="overlay"></div>
+        <div className="overlay" onClick={props.onCancel} />
     )
 }
