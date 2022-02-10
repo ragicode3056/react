@@ -16,6 +16,14 @@
     box-shadow: 1px 0px 5px 0px #7daf85;
     z-index:10000;
     margin-left:500px;
+    position:fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.btn-div{
+  display: flex;
+  flex-direction: row-reverse;
 }
 .btn{
   border: none;
@@ -28,6 +36,7 @@
     width: 90px;
     height: 40px;
     background: red;
+    margin-left:20px;
 }
 .overlay{
   width:100%;
